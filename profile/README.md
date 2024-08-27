@@ -3,7 +3,7 @@
 **WiggleWiggle**는 캐주얼 게임을 기반으로 한 Web3 게임입니다. 독특한 게임 경험과 가치 있는 디지털 자산 창출을 통해 사용자들의 게임 몰입도와 지속적 참여를 촉진합니다.
 
 ## 데모 영상
-[![Watch this Demo](https://img.youtube.com/vi/YkDlWZ2Y-oE/0.jpg)](https://youtu.be/YkDlWZ2Y-oE?si=VpW6G1G7KBJhv2w1)
+[![Watch this Demo](https://img.youtube.com/vi/YkDlWZ2Y-oE/0.jpg)](https://youtu.be/YkDlWZ2Y-oE?si=VpW6G1G7KBJhv2w1)
 
 ## 주요 기능
 
