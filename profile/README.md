@@ -1,49 +1,45 @@
 # WiggleWiggle
 
-**WiggleWiggle**는 캐주얼 게임을 기반으로 한 Web3 게임입니다. 독특한 게임 경험과 가치 있는 디지털 자산 창출을 통해 사용자들의 게임 몰입도와 지속적 참여를 촉진합니다.
+**WiggleWiggle** is a Web3 game based on a casual gaming experience. It enhances user engagement and long-term participation by offering unique gameplay and the ability to create valuable digital assets.
 
-## 데모 영상
+## Demo Video  
 [![Watch this Demo](https://img.youtube.com/vi/YkDlWZ2Y-oE/0.jpg)](https://youtu.be/YkDlWZ2Y-oE?si=VpW6G1G7KBJhv2w1)
 
-## 주요 기능
+## Key Features  
 
-### 1. Price Battle Pool
-- 상대 플레이어의 NFT 및 Mystery Box를 획득할 수 있는 기능입니다.
+### 1. Price Battle Pool  
+- A feature that allows players to acquire opponents' NFTs and Mystery Boxes.
 
-### 2. NFT Customizing Editor
-- 사용자의 개성을 담아 게임 내 재화를 커스터마이징할 수 있는 기능입니다.
+### 2. NFT Customizing Editor  
+- A tool enabling users to personalize in-game assets with their unique styles.
 
-### 3. 원활한 NFT 거래
-- 게임 내 재화 관리 효율화 및 사용자 간의 매매를 촉진하는 기능을 제공합니다.
+### 3. Seamless NFT Trading  
+- Enhances asset management efficiency and facilitates trading among users.
 
-## Development 기술 스택
+## Development Tech Stack  
 
-WiggleWiggle 게임 개발에 사용된 주요 기술 스택은 다음과 같습니다:
+The following technologies were used in the development of WiggleWiggle:
 
-### Front-End
-- **Next.js**
-- **Typescript**
-- **Styled-components**
-- **Redux**
-- **Ethers.js**
-- **Web3Auth SDK**
-- **Alchemy SDK**
-- **Pinata SDK**
-- **Netlify**
+### Front-End  
+- **Next.js**  
+- **TypeScript**  
+- **Styled-components**  
+- **Redux**  
+- **Ethers.js**  
+- **Web3Auth SDK**  
+- **Alchemy SDK**  
+- **Pinata SDK**  
+- **Netlify**  
 
-### Game
-- **Socket.IO**
-- **Phaser**
+### Game  
+- **Socket.IO**  
+- **Phaser**  
 
-### Back-End
-- **Socket.IO**
-- **Express**
+### Back-End  
+- **Socket.IO**  
+- **Express**  
 
-### Smart Contract
-- **Solidity**
-- **Hardhat**
-- **ERC-6551**
-
-
-
-
+### Smart Contract  
+- **Solidity**  
+- **Hardhat**  
+- **ERC-6551**  
